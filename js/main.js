@@ -1,0 +1,3 @@
+function diga() {
+    alert("opa");
+}
